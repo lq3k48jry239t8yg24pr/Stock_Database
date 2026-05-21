@@ -13,10 +13,10 @@ tax_expense,,0.0
 net_income,,152021.0
 basic_eps,,
 diluted_eps,,
-cash_and_cash_equivalents,,1167663.0
-marketable_securities,,
-accounts_receivable,,
-inventory,,
+cash_and_cash_equivalents,0.0,1167663.0
+marketable_securities,0.0,
+accounts_receivable,0.0,
+inventory,0.0,0.0
 prepaid_expenses,16536.0,81571.0
 total_current_assets,16536.0,1251141.0
 property_plant_equipment,,
@@ -27,7 +27,7 @@ total_assets,67658.0,174131769.0
 accounts_payable,,
 accrued_liabilities,10.0,69178.0
 deferred_revenue_current,,
-short_term_debt,,
+short_term_debt,,0.0
 operating_lease_liabilities_current,,
 total_current_liabilities,63562.0,266845.0
 long_term_debt,,
@@ -35,7 +35,7 @@ operating_lease_liabilities_noncurrent,,
 deferred_tax_liabilities,,
 total_liabilities,63562.0,7166845.0
 retained_earnings,-20904.0,-5854877.0
-treasury_stock,,
+treasury_stock,,0.0
 accumulated_other_comprehensive_income,,
 total_equity,4096.0,-5854258.0
 cash_flow_from_operations,,-189737.0
@@ -44,8 +44,8 @@ depreciation_amortization_cf,,
 capital_expenditure,,
 cash_flow_from_investing,,-172500000.0
 cash_flow_from_financing,,173857401.0
-dividends_paid,,
-share_repurchase,,
+dividends_paid,0.0,0.0
+share_repurchase,0.0,0.0
 shares_outstanding_basic,,
 shares_outstanding_diluted,,
 total_debt,,
@@ -53,7 +53,7 @@ current_stock_price,,10.02
 market_cap,,
 enterprise_value,,
 beta_3y,,
-risk_free_rate,0.041630001068115235,0.04310999870300293
+risk_free_rate,0.0416300010681152,0.0431099987030029
 wacc,,
 ebitda,,
 free_cash_flow,,

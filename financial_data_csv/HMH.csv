@@ -2,7 +2,7 @@ Financials,2025-03-31,2025-12-31,2026-03-31
 revenue,,,
 cost_of_goods_sold,,,
 gross_profit,,,
-research_and_development,,,
+research_and_development,,0.0,
 selling_general_and_admin,,,
 operating_expenses,,,
 operating_income_ebit,,,
@@ -16,7 +16,7 @@ diluted_eps,30560.0,,17240.0
 cash_and_cash_equivalents,,,
 marketable_securities,,,
 accounts_receivable,,10.0,10.0
-inventory,,,
+inventory,,,0.0
 prepaid_expenses,,,
 total_current_assets,,,
 property_plant_equipment,,,
@@ -27,7 +27,7 @@ total_assets,,10.0,10.0
 accounts_payable,,,
 accrued_liabilities,,,
 deferred_revenue_current,,,
-short_term_debt,,,
+short_term_debt,,,0.0
 operating_lease_liabilities_current,,,
 total_current_liabilities,,,
 long_term_debt,,,
@@ -44,16 +44,16 @@ depreciation_amortization_cf,,,
 capital_expenditure,,,
 cash_flow_from_investing,,,
 cash_flow_from_financing,,,
-dividends_paid,,,
-share_repurchase,,,
+dividends_paid,,,0.0
+share_repurchase,,,0.0
 shares_outstanding_basic,200.0,1000.0,1000.0
-shares_outstanding_diluted,200.0,,200.0
+shares_outstanding_diluted,200.0,1000.0,200.0
 total_debt,,,
 current_stock_price,,,
 market_cap,,,
 enterprise_value,,,
 beta_3y,,,
-risk_free_rate,0.04245999813079834,0.041630001068115235,0.04310999870300293
+risk_free_rate,0.0424599981307983,0.0416300010681152,0.0431099987030029
 wacc,,,
 ebitda,,,
 free_cash_flow,,,

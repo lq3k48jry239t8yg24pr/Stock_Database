@@ -1,10 +1,10 @@
 Financials,2025-12-31,2026-03-31
 revenue,,0.0
-cost_of_goods_sold,,
-gross_profit,,
+cost_of_goods_sold,,0.0
+gross_profit,,0.0
 research_and_development,,
 selling_general_and_admin,,279370.0
-operating_expenses,,
+operating_expenses,,279370.0
 operating_income_ebit,,-279370.0
 depreciation_and_amortization_expense,,
 interest_income,,1531176.0
@@ -15,8 +15,8 @@ basic_eps,,
 diluted_eps,,
 cash_and_cash_equivalents,73881.0,1863122.0
 marketable_securities,,
-accounts_receivable,,
-inventory,,
+accounts_receivable,,0.0
+inventory,0.0,0.0
 prepaid_expenses,3993.0,231730.0
 total_current_assets,77874.0,2094852.0
 property_plant_equipment,,
@@ -26,8 +26,8 @@ intangible_assets,,
 total_assets,155828.0,256678478.0
 accounts_payable,65108.0,144262.0
 accrued_liabilities,10484.0,97130.0
-deferred_revenue_current,,
-short_term_debt,,
+deferred_revenue_current,,0.0
+short_term_debt,0.0,
 operating_lease_liabilities_current,,
 total_current_liabilities,,
 long_term_debt,,
@@ -35,7 +35,7 @@ operating_lease_liabilities_noncurrent,,
 deferred_tax_liabilities,,
 total_liabilities,175592.0,261763.0
 retained_earnings,-44764.0,1207410.0
-treasury_stock,,
+treasury_stock,,0.0
 accumulated_other_comprehensive_income,,
 total_equity,-19764.0,1985539.0
 cash_flow_from_operations,,-448018.0
@@ -44,8 +44,8 @@ depreciation_amortization_cf,,
 capital_expenditure,,
 cash_flow_from_investing,,-253000000.0
 cash_flow_from_financing,,255237259.0
-dividends_paid,,
-share_repurchase,,
+dividends_paid,0.0,0.0
+share_repurchase,0.0,0.0
 shares_outstanding_basic,,
 shares_outstanding_diluted,,
 total_debt,,

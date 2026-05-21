@@ -1,10 +1,10 @@
 Financials,2024-12-31,2025-06-30,2025-09-30,2025-12-31,2026-03-31
-revenue,,,,0.0,0.0
-cost_of_goods_sold,,,,0.0,0.0
-gross_profit,,,,0.0,0.0
+revenue,,,0.0,0.0,0.0
+cost_of_goods_sold,,,0.0,0.0,0.0
+gross_profit,,,0.0,0.0,0.0
 research_and_development,,,,0.0,0.0
 selling_general_and_admin,,41267.0,285197.0,474525.0,172510.0
-operating_expenses,,,,,
+operating_expenses,,,285197.0,,
 operating_income_ebit,,-41267.0,-285197.0,-474525.0,-172510.0
 depreciation_and_amortization_expense,,,,0.0,0.0
 interest_income,,,1683318.0,3363626.0,1546358.0
@@ -16,7 +16,7 @@ diluted_eps,,-0.01,,,
 cash_and_cash_equivalents,0.0,,741229.0,383075.0,191060.0
 marketable_securities,0.0,,,,
 accounts_receivable,0.0,,,0.0,0.0
-inventory,0.0,0.0,,0.0,0.0
+inventory,0.0,0.0,0.0,0.0,0.0
 prepaid_expenses,8886.0,,123064.0,92769.0,151844.0
 total_current_assets,8886.0,,864293.0,475844.0,342904.0
 property_plant_equipment,0.0,,,0.0,0.0
@@ -27,7 +27,7 @@ total_assets,143423.0,505828.0,175113471.0,176383931.0,177775951.0
 accounts_payable,,,,0.0,0.0
 accrued_liabilities,,23200.0,204278.0,65244.0,87673.0
 deferred_revenue_current,,,,0.0,0.0
-short_term_debt,0.0,0.0,,0.0,0.0
+short_term_debt,0.0,0.0,0.0,0.0,0.0
 operating_lease_liabilities_current,,,,0.0,0.0
 total_current_liabilities,138355.0,573027.0,437288.0,144501.0,162673.0
 long_term_debt,,,,0.0,0.0
@@ -44,8 +44,8 @@ depreciation_amortization_cf,,,,0.0,0.0
 capital_expenditure,,,,0.0,0.0
 cash_flow_from_investing,,,,-172500000.0,0.0
 cash_flow_from_financing,,,,173380519.0,-4257.0
-dividends_paid,0.0,0.0,,0.0,0.0
-share_repurchase,0.0,0.0,,0.0,0.0
+dividends_paid,0.0,0.0,0.0,0.0,0.0
+share_repurchase,0.0,0.0,0.0,0.0,0.0
 shares_outstanding_basic,,3750000.0,,,
 shares_outstanding_diluted,,,,,
 total_debt,,,,,
